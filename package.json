@@ -4,7 +4,7 @@
   "description": "",
   "main": "",
   "scripts": {
-    "start": "node ./array-merge/index",
+    "start": "node ./min-moves/index",
     "test": "jest --watchAll  --detectOpenHandles"
   },
   "author": "",
