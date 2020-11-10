@@ -4,7 +4,7 @@
   "description": "",
   "main": "",
   "scripts": {
-    "start": "node ./min-moves/index",
+    "start": "node ./hostname-tracker/index",
     "test": "jest --watchAll  --detectOpenHandles"
   },
   "author": "",
